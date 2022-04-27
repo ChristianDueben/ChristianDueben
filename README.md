@@ -1,8 +1,3 @@
 Name: Christian Düben
-
-Affiliation: Hamburg University, Economics Department
-
-<!---
-ChristianDueben/ChristianDueben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Profession: Economist
+Affiliations: Hamburg University, Helmut Schmidt University, Hamburg Institute of International Economics
