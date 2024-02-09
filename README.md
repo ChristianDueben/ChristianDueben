@@ -2,4 +2,4 @@ Name: Christian Düben
 
 Profession: Economist
 
-Affiliations: Hamburg University, Helmut Schmidt University
+Affiliations: Hamburg University, University of Stuttgart
